@@ -8,6 +8,9 @@ indent_style = space
 insert_final_newline = true
 trim_trailing_whitespace = true
 
+[pre-commit]
+end_of_line = lf
+
 [*.{html,css,cs}]
 indent_size = 4
 
