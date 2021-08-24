@@ -35,3 +35,41 @@ To run it :
 ```bash
 dotnet build/ReactTSCSharpStarter.dll
 ```
+
+## Docker
+
+A simple Docker setup is provided ; this also allows for easy extending.
+
+### Requirements
+
+#### Windows / macOS
+* [Docker Desktop](https://www.docker.com/products/docker-desktop)
+
+#### Linux
+* [Docker Engine](https://docs.docker.com/engine/install/)
+* [Docker Compose](https://docs.docker.com/compose/install/)
+
+### Starting the container
+
+```bash
+docker-compose -p react-ts-csharp-starter up
+
+# To run in detached mode
+docker-compose -p react-ts-csharp-starter up -d
+```
+
+This starts a release build server at http://localhost:5000.
+
+### Stopping the container
+
+If the container is running in detached mode, you can run the command below to stop it.
+
+```bash
+docker-compose -p react-ts-csharp-starter stop
+```
+
+### Removing the container
+
+```bash
+docker-compose -p react-ts-csharp-starter down
+```
