@@ -30,3 +30,14 @@ npm run build
 ```bash
 npm run preview
 ```
+
+## Unit tests
+
+Jest and React Testing Library are used to run unit tests.
+
+```bash
+npm test
+
+# To run in watch mode
+npm run test:watch
+```
