@@ -1,6 +1,6 @@
 # React + TS / C# Starter client
 
-Front-end starter code that uses React, TypeScript, Tailwind CSS and Vite.
+Front-end starter code that uses React, Redux, TypeScript, Tailwind CSS and Vite.
 
 ## Requirements
 * [Node.js](https://nodejs.org/en/download/)

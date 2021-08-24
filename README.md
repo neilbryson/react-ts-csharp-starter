@@ -19,6 +19,7 @@ Refer to [client/README.md](client/README.md)
 
 #### Technologies used
 * [React](https://reactjs.org/)
+* [Redux](https://redux.js.org/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [Tailwind CSS](https://tailwindcss.com/)
 * [Vite](https://vitejs.dev/)
