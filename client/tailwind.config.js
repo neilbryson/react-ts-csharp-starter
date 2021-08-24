@@ -15,6 +15,9 @@ module.exports = {
       xl: '1920px',
       '2xl': '2400px',
     },
+    fontFamily: {
+      sans: ['Urbanist', 'sans-serif']
+    }
   },
   variants: {
     extend: {
