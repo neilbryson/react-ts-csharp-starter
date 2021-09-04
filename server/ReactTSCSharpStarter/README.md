@@ -1,13 +1,5 @@
 # React + TS / C# Starter server
 
-## Requirements
-* [.NET 5.0](https://dotnet.microsoft.com/download/dotnet/5.0)
-
-## Before starting
-
-You are free to rename the solution to whatever name you want.
-By default, the solution / project name is "ReactTSCSharpStarter".
-
 ## Starting the development server
 
 To start a development server at https://localhost:5001, run
