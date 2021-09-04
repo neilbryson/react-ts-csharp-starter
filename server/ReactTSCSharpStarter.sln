@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactTSCSharpStarter", "ReactTSCSharpStarter\ReactTSCSharpStarter.csproj", "{7D42352D-0162-4C11-8F05-C4E26275B1A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactTSCSharpStarter.Tests", "ReactTSCSharpStarter.Tests\ReactTSCSharpStarter.Tests.csproj", "{A8784817-2F2D-43A8-BDA9-7664CCD0773E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{7D42352D-0162-4C11-8F05-C4E26275B1A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D42352D-0162-4C11-8F05-C4E26275B1A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D42352D-0162-4C11-8F05-C4E26275B1A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8784817-2F2D-43A8-BDA9-7664CCD0773E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8784817-2F2D-43A8-BDA9-7664CCD0773E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8784817-2F2D-43A8-BDA9-7664CCD0773E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8784817-2F2D-43A8-BDA9-7664CCD0773E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

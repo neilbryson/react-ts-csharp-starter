@@ -21,7 +21,7 @@ namespace ReactTSCSharpStarter.Controllers
         {
             return new Sample
             {
-                CurrentTime = DateTime.Now,
+                CurrentTime = DateTime.UtcNow,
                 Message = "Hello world!",
             };
         }
