@@ -8,7 +8,7 @@ describe('Sample reducers', () => {
   };
 
   test('default', () => {
-    expect(sample(undefined, '' as types.SampleActions)).toStrictEqual(initialState);
+    expect(sample(undefined, '' as unknown as types.SampleActions)).toStrictEqual(initialState);
   });
 
   describe('local actions', () => {

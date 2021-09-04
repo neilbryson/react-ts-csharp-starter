@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-import { createMockStore } from '../../../utilities/test';
+import { createMockStore } from '../../../utilities/testUtilities';
 import { clearData, getSample } from '../actions';
 import * as types from '../types';
 
