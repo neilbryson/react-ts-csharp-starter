@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactTSCSharpStarter", "ReactTSCSharpStarter.csproj", "{7D42352D-0162-4C11-8F05-C4E26275B1A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactTSCSharpStarter", "ReactTSCSharpStarter\ReactTSCSharpStarter.csproj", "{7D42352D-0162-4C11-8F05-C4E26275B1A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
